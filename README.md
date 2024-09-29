@@ -1,1 +1,1 @@
-# A non-cycling subpopulation of low-grade gliomas is equipped to localize and endure the hypoxic microenvironment 
+# Understanding the effects of hypoxia on low-grade glioma translational state through the lenses of single-cell and spatial transcriptomics
